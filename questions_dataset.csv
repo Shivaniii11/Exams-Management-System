@@ -1,0 +1,251 @@
+subject,question,option1,option2,option3,correct_option
+Python,What is Python?,Programming Language,Database,Operating System,1
+Python,Who developed Python?,Guido van Rossum,James Gosling,Dennis Ritchie,1
+Python,Which keyword defines a function?,def,func,function,1
+Python,Which data type is immutable?,List,Tuple,Dictionary,2
+Python,Which symbol is used for comments?,#,//,--,1
+Python,Which function prints output?,echo(),print(),printf(),2
+Python,Which data type stores key-value pairs?,List,Tuple,Dictionary,3
+Python,Which keyword is used for loops?,loop,for,iterate,2
+Python,Which operator is used for exponent?,^,**,%,2
+Python,Which method adds item to list?,append(),add(),insert(),1
+Python,Which method removes item from list?,delete(),remove(),pop(),3
+Python,Which keyword is used for condition?,if,when,check,1
+Python,Which type is ordered and mutable?,Tuple,List,Set,2
+Python,Which type is unordered?,Set,List,Tuple,1
+Python,Which keyword is used to import module?,include,import,require,2
+Python,Which function gets user input?,input(),scan(),get(),1
+Python,Which keyword is used to exit loop?,break,stop,end,1
+Python,Which keyword skips iteration?,skip,continue,next,2
+Python,Which operator checks equality?,=,==,!=,2
+Python,Which data type is used for text?,int,str,float,2
+Python,Which is correct file extension?,.pt,.py,.p,2
+Python,Which keyword defines class?,class,object,define,1
+Python,Which method converts string to int?,int(),str(),float(),1
+Python,Which keyword handles exceptions?,try,check,handle,1
+Python,Which block handles error?,catch,except,error,2
+Python,Which keyword is used finally?,final,finally,last,2
+Python,Which function returns length?,len(),count(),size(),1
+Python,Which keyword creates lambda?,lambda,func,def,1
+Python,Which structure stores unique values?,Set,List,Tuple,1
+Python,Which keyword deletes variable?,del,remove,delete,1
+Python,Which method sorts list?,sort(),order(),arrange(),1
+Python,Which module is for math?,math,calc,numbers,1
+Python,Which function converts to string?,str(),int(),float(),1
+Python,Which keyword is used for inheritance?,extends,inherits,class,3
+Python,Which symbol is used for list?,{},[],(),2
+Python,Which keyword defines generator?,yield,return,generator,1
+Python,Which function gives type?,type(),kind(),typeof(),1
+Python,Which keyword is boolean true?,true,True,TRUE,2
+Python,Which keyword is boolean false?,false,False,FALSE,2
+Python,Which loop runs at least once?,while,for,do-while,3
+Python,Which keyword stops program?,exit,stop,break,1
+Python,Which operator is AND?,&&,and,&,2
+Python,Which operator is OR?,||,or,|,2
+Python,Which keyword defines global var?,global,public,static,1
+Python,Which method copies list?,copy(),clone(),duplicate(),1
+Python,Which keyword defines constant?,const,final,None,3
+Python,Which structure is indexed?,List,Set,Dictionary,1
+Python,Which keyword is used for pass?,pass,skip,continue,1
+Python,Which module handles random?,random,rand,number,1
+Python,Which function opens file?,open(),file(),read(),1
+Data Structures,Which data structure uses FIFO?,Stack,Queue,Tree,2
+Data Structures,Which data structure uses LIFO?,Queue,Stack,Graph,2
+Data Structures,Which structure uses nodes?,Array,Linked List,Stack,2
+Data Structures,Which search is faster?,Linear,Binary,Random,2
+Data Structures,Tree root is?,Top node,Bottom node,Middle node,1
+Data Structures,Which structure is non-linear?,Tree,Array,List,1
+Data Structures,Which structure stores elements sequentially?,Array,Tree,Graph,1
+Data Structures,Which structure uses recursion?,Tree,Array,Queue,1
+Data Structures,Which structure has key-value pairs?,HashMap,Array,Stack,1
+Data Structures,Which structure uses edges?,Graph,List,Stack,1
+Data Structures,Which is dynamic size?,Linked List,Array,Tuple,1
+Data Structures,Which supports random access?,Array,Queue,Stack,1
+Data Structures,Which structure is fastest lookup?,Hash Table,List,Stack,1
+Data Structures,Which structure is hierarchical?,Tree,Array,List,1
+Data Structures,Which structure is linear?,Array,Tree,Graph,1
+Data Structures,Which structure uses pointers?,Linked List,Array,Set,1
+Data Structures,Which structure has parent-child relation?,Tree,List,Stack,1
+Data Structures,Which structure is cyclic?,Graph,Array,Queue,1
+Data Structures,Which structure is acyclic?,Tree,Graph,List,1
+Data Structures,Which structure supports push-pop?,Stack,Queue,List,1
+Data Structures,Which structure supports enqueue-dequeue?,Queue,Stack,List,1
+Data Structures,Which is fixed size?,Array,Linked List,Queue,1
+Data Structures,Which is best for recursion?,Stack,Queue,Array,1
+Data Structures,Which structure uses adjacency matrix?,Graph,Tree,List,1
+Data Structures,Which traversal is DFS?,Stack,Queue,Array,1
+Data Structures,Which traversal is BFS?,Queue,Stack,Array,1
+Data Structures,Which structure uses heap property?,Heap,Stack,List,1
+Data Structures,Which is priority queue?,Heap,Stack,Array,1
+Data Structures,Which structure is sorted tree?,BST,Graph,List,1
+Data Structures,Which stores unique elements?,Set,List,Array,1
+Data Structures,Which is unordered?,Set,List,Array,1
+Data Structures,Which is ordered?,List,Set,Graph,1
+Data Structures,Which is used for searching?,Tree,List,Queue,1
+Data Structures,Which is used for sorting?,Array,Stack,Queue,1
+Data Structures,Which is used in compiler?,Stack,Queue,List,1
+Data Structures,Which is used in BFS?,Queue,Stack,List,1
+Data Structures,Which is used in DFS?,Stack,Queue,List,1
+Data Structures,Which is used in recursion?,Stack,Queue,List,1
+Data Structures,Which structure avoids duplicates?,Set,List,Array,1
+Data Structures,Which structure stores sequence?,Array,Set,Graph,1
+Data Structures,Which is best for insertion?,Linked List,Array,Stack,1
+Data Structures,Which is best for deletion?,Linked List,Array,Queue,1
+Data Structures,Which structure uses index?,Array,Set,Graph,1
+Data Structures,Which structure grows dynamically?,Linked List,Array,Stack,1
+Data Structures,Which is best for lookup?,Hash Table,List,Stack,1
+Data Structures,Which is graph component?,Vertex,Array,Stack,1
+Data Structures,Which is graph connection?,Edge,Node,List,1
+Data Structures,Which is tree leaf?,Node without children,Root node,Parent node,1
+Data Structures,Which is balanced tree?,AVL,Binary,Graph,1
+Data Structures,Which is complete tree?,Binary Tree,Graph,List,1
+Computer Networks,Full form of IP?,Internet Protocol,Internal Process,Input Program,1
+Computer Networks,Which layer is TCP?,Transport,Network,Application,1
+Computer Networks,Which device routes data?,Switch,Router,Hub,2
+Computer Networks,HTTP stands for?,HyperText Transfer Protocol,High Transfer Text,Hyper Tool Transfer,1
+Computer Networks,MAC address is used by?,Switch,Router,Firewall,1
+Computer Networks,Which layer is IP?,Network,Transport,Application,1
+Computer Networks,Which device connects LANs?,Router,Hub,Switch,1
+Computer Networks,Which device broadcasts data?,Hub,Switch,Router,1
+Computer Networks,Which protocol is secure?,HTTPS,HTTP,FTP,1
+Computer Networks,Which protocol transfers files?,FTP,HTTP,SMTP,1
+Computer Networks,Which protocol sends emails?,SMTP,FTP,HTTP,1
+Computer Networks,Which protocol receives emails?,POP3,HTTP,FTP,1
+Computer Networks,Which layer is closest to user?,Application,Transport,Network,1
+Computer Networks,Which layer handles data transfer?,Transport,Application,Physical,1
+Computer Networks,Which layer handles routing?,Network,Transport,Application,1
+Computer Networks,Which layer is physical medium?,Physical,Data Link,Network,1
+Computer Networks,Which topology is star?,Central node,Loop,Chain,1
+Computer Networks,Which topology is ring?,Circular,Star,Mesh,1
+Computer Networks,Which topology is mesh?,Fully connected,Star,Ring,1
+Computer Networks,Which uses cables?,Wired,Wireless,Satellite,1
+Computer Networks,Which uses radio?,Wireless,Wired,LAN,1
+Computer Networks,Which is local network?,LAN,WAN,MAN,1
+Computer Networks,Which is wide network?,WAN,LAN,PAN,1
+Computer Networks,Which is personal network?,PAN,LAN,WAN,1
+Computer Networks,Which device filters data?,Switch,Hub,Repeater,1
+Computer Networks,Which repeats signal?,Repeater,Router,Switch,1
+Computer Networks,Which converts signals?,Modem,Router,Switch,1
+Computer Networks,Which provides IP?,DHCP,DNS,FTP,1
+Computer Networks,Which resolves domain?,DNS,HTTP,FTP,1
+Computer Networks,Which port is HTTP?,80,21,25,1
+Computer Networks,Which port is HTTPS?,443,80,25,1
+Computer Networks,Which port is FTP?,21,80,25,1
+Computer Networks,Which port is SMTP?,25,21,80,1
+Computer Networks,Which model has 7 layers?,OSI,TCP/IP,Hybrid,1
+Computer Networks,Which model has 4 layers?,TCP/IP,OSI,LAN,1
+Computer Networks,Which layer is data link?,Layer 2,Layer 3,Layer 4,1
+Computer Networks,Which layer is network?,Layer 3,Layer 2,Layer 1,1
+Computer Networks,Which layer is transport?,Layer 4,Layer 3,Layer 2,1
+Computer Networks,Which layer is session?,Layer 5,Layer 4,Layer 3,1
+Computer Networks,Which layer is presentation?,Layer 6,Layer 5,Layer 4,1
+Computer Networks,Which layer is application?,Layer 7,Layer 6,Layer 5,1
+Computer Networks,Which protocol is stateless?,HTTP,FTP,SMTP,1
+Computer Networks,Which protocol is connection-oriented?,TCP,UDP,IP,1
+Computer Networks,Which protocol is faster?,UDP,TCP,HTTP,1
+Computer Networks,Which protocol ensures delivery?,TCP,UDP,IP,1
+Computer Networks,Which protocol is unreliable?,UDP,TCP,HTTP,1
+Computer Networks,Which device works at layer 2?,Switch,Router,Hub,1
+Computer Networks,Which device works at layer 3?,Router,Switch,Hub,1
+Computer Networks,Which device works at layer 1?,Hub,Switch,Router,1
+Computer Networks,Which medium is fastest?,Fiber,Coaxial,Wireless,1
+Computer Networks,Which medium is wireless?,WiFi,Fiber,Cable,1
+Operating Systems,OS stands for?,Operating System,Open Software,Order System,1
+Operating Systems,Which is an operating system?,Windows,Python,HTML,1
+Operating Systems,Who manages hardware?,OS,CPU,RAM,1
+Operating Systems,Which is multitasking OS?,Linux,Notepad,Calculator,1
+Operating Systems,Which is single user OS?,Windows,UNIX,Linux,1
+Operating Systems,Which is open source OS?,Linux,Windows,MacOS,1
+Operating Systems,Which is closed source OS?,Windows,Linux,Ubuntu,1
+Operating Systems,Kernel is?,Core of OS,Application,UI,1
+Operating Systems,Which manages memory?,OS,CPU,Hard Disk,1
+Operating Systems,Which manages processes?,OS,RAM,Cache,1
+Operating Systems,Which manages files?,OS,CPU,BIOS,1
+Operating Systems,Which is not OS?,Python,Linux,Windows,1
+Operating Systems,Which is real time OS?,RTOS,Linux,Windows,1
+Operating Systems,Which OS is mobile?,Android,Windows,Linux,1
+Operating Systems,Which OS is Apple?,MacOS,Windows,Linux,1
+Operating Systems,Which scheduling is FIFO?,FCFS,SJF,RR,1
+Operating Systems,Which scheduling is shortest job?,SJF,FCFS,RR,1
+Operating Systems,Which scheduling is round robin?,RR,SJF,FCFS,1
+Operating Systems,Which memory is volatile?,RAM,ROM,Hard Disk,1
+Operating Systems,Which memory is non-volatile?,ROM,RAM,Cache,1
+Operating Systems,Which is secondary memory?,Hard Disk,RAM,Cache,1
+Operating Systems,Which is primary memory?,RAM,Hard Disk,CD,1
+Operating Systems,Which handles input/output?,OS,CPU,RAM,1
+Operating Systems,Which provides interface?,OS,CPU,BIOS,1
+Operating Systems,Which is CLI OS?,DOS,Windows,Android,1
+Operating Systems,Which is GUI OS?,Windows,DOS,CLI,1
+Operating Systems,Which is time sharing OS?,Unix,DOS,RTOS,1
+Operating Systems,Which is distributed OS?,Distributed,Windows,DOS,1
+Operating Systems,Which is network OS?,NOS,DOS,RTOS,1
+Operating Systems,Which is batch OS?,Batch,Interactive,Real Time,1
+Operating Systems,Which is multi user OS?,Unix,DOS,Windows 98,1
+Operating Systems,Which command shows files?,ls,cd,mkdir,1
+Operating Systems,Which command changes directory?,cd,ls,rm,1
+Operating Systems,Which command removes file?,rm,del,erase,1
+Operating Systems,Which command creates folder?,mkdir,make,create,1
+Operating Systems,Which is paging?,Memory management,Scheduling,File system,1
+Operating Systems,Which is segmentation?,Memory division,Process,Thread,1
+Operating Systems,Which avoids deadlock?,Prevention,Execution,Allocation,1
+Operating Systems,Which is deadlock?,Process waiting,Execution,Completion,1
+Operating Systems,Which is starvation?,Process waiting forever,Execution,Completion,1
+Operating Systems,Which is thrashing?,Excess paging,CPU use,Disk error,1
+Operating Systems,Which is virtual memory?,Extra memory,Cache,ROM,1
+Operating Systems,Which is swap?,Memory exchange,CPU change,Disk read,1
+Operating Systems,Which is process?,Program in execution,File,Folder,1
+Operating Systems,Which is thread?,Lightweight process,Program,File,1
+Operating Systems,Which is context switch?,Process switch,Memory clear,CPU reset,1
+Operating Systems,Which is interrupt?,Signal to CPU,Memory,Disk,1
+Operating Systems,Which is system call?,OS request,Program,File,1
+Operating Systems,Which is shell?,Command interface,Kernel,File,1
+Operating Systems,Which is booting?,Start OS,Stop OS,Restart file,1
+SQL,What does SQL stand for?,Structured Query Language,Simple Query List,System Query Logic,1
+SQL,Which command retrieves data?,SELECT,GET,FETCH,1
+SQL,Which clause filters rows?,WHERE,GROUP BY,ORDER BY,1
+SQL,Which command deletes table?,DROP,DELETE,REMOVE,1
+SQL,Primary key is?,Unique identifier,Duplicate value,Optional field,1
+SQL,Which clause sorts data?,ORDER BY,SORT,ARRANGE,1
+SQL,Which clause groups rows?,GROUP BY,ORDER BY,WHERE,1
+SQL,Which command inserts data?,INSERT,ADD,PUT,1
+SQL,Which operator checks NULL?,IS NULL,= NULL,== NULL,1
+SQL,Which keyword joins tables?,JOIN,MERGE,CONNECT,1
+SQL,Which command updates data?,UPDATE,MODIFY,CHANGE,1
+SQL,Which removes records?,DELETE,REMOVE,ERASE,1
+SQL,Which creates table?,CREATE,MAKE,BUILD,1
+SQL,Which deletes database?,DROP,DELETE,REMOVE,1
+SQL,Which constraint ensures uniqueness?,UNIQUE,PRIMARY,FOREIGN,1
+SQL,Which clause limits output?,LIMIT,TOP,BOUND,1
+SQL,Which operator is AND?,AND,&&,&,1
+SQL,Which operator is OR?,OR,||,|,1
+SQL,Which clause renames column?,AS,RENAME,CHANGE,1
+SQL,Which function counts rows?,COUNT(),SUM(),TOTAL(),1
+SQL,Which function averages?,AVG(),MEAN(),AVERAGE(),1
+SQL,Which finds max?,MAX(),TOP(),HIGH(),1
+SQL,Which finds min?,MIN(),LOW(),SMALL(),1
+SQL,Which adds column?,ALTER,MODIFY,UPDATE,1
+SQL,Which deletes column?,DROP,DELETE,REMOVE,1
+SQL,Which shows tables?,SHOW,DISPLAY,LIST,1
+SQL,Which selects all?,*,ALL,EVERY,1
+SQL,Which removes duplicates?,DISTINCT,UNIQUE,REMOVE,1
+SQL,Which clause filters groups?,HAVING,WHERE,FILTER,1
+SQL,Which joins all rows?,CROSS JOIN,INNER JOIN,LEFT JOIN,1
+SQL,Which join keeps all left?,LEFT JOIN,RIGHT JOIN,FULL JOIN,1
+SQL,Which join keeps all right?,RIGHT JOIN,LEFT JOIN,FULL JOIN,1
+SQL,Which join keeps matches?,INNER JOIN,OUTER JOIN,CROSS JOIN,1
+SQL,Which join keeps all?,FULL JOIN,INNER JOIN,LEFT JOIN,1
+SQL,Which creates index?,CREATE INDEX,ADD INDEX,MAKE INDEX,1
+SQL,Which deletes index?,DROP INDEX,REMOVE INDEX,DELETE INDEX,1
+SQL,Which keyword groups?,GROUP BY,ORDER BY,WHERE,1
+SQL,Which keyword filters?,WHERE,FILTER,SELECT,1
+SQL,Which sorts descending?,DESC,DOWN,LOW,1
+SQL,Which sorts ascending?,ASC,UP,HIGH,1
+SQL,Which combines results?,UNION,JOIN,MERGE,1
+SQL,Which removes duplicates in union?,UNION,UNION ALL,JOIN,1
+SQL,Which keeps duplicates?,UNION ALL,UNION,JOIN,1
+SQL,Which creates view?,CREATE VIEW,MAKE VIEW,BUILD VIEW,1
+SQL,Which deletes view?,DROP VIEW,REMOVE VIEW,DELETE VIEW,1
+SQL,Which renames table?,RENAME,ALTER,CHANGE,1
+SQL,Which checks condition?,WHERE,IF,CASE,1
+SQL,Which keyword is used for alias?,AS,ALIAS,NAME,1
+SQL,Which keyword is used for conditions?,CASE,IF,WHEN,1
